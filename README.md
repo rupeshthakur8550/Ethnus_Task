@@ -1,4 +1,3 @@
-```markdown
 # Ethnus_Task
 
 This Task is a MERN (MongoDB, Express, React, Node.js) stack application. It provides functionalities to manage transactions with features such as searching, pagination, statistics, and visualizations.
@@ -19,7 +18,7 @@ This Task is a MERN (MongoDB, Express, React, Node.js) stack application. It pro
 1. **Clone the repository**
 
     ```bash
-    git clone [Click Here](https://github.com/rupeshthakur8550/Ethnus_Task.git)
+    git clone https://github.com/rupeshthakur8550/Ethnus_Task.git
     cd Ethnus_Task
     ```
 
@@ -107,4 +106,3 @@ Replace `your_mongodb_connection_string` with your actual MongoDB connection str
 ---
 
 Feel free to reach out if you have any questions or need further assistance with the setup. Happy coding!
-```
